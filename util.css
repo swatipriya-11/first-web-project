@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background-color: #ce68ac;
+    border:15px groove #C095E4;
+    border-radius: 50px;
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+.m-w-20{
+    max-width: 37vw;
+}
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
